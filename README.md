@@ -61,11 +61,9 @@ Students_Data_Mining_Project/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd Students_Data_Mining_Project
+git clone https://github.com/halakhan2007/Student-Data-Mining-System.git
+cd Student-Data-Mining-System
 ```
-
-Replace `YOUR_REPOSITORY_URL` with the URL of your GitHub repository.
 
 ### 2. Create and activate a virtual environment (recommended)
 
