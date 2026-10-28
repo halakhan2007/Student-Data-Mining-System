@@ -1,0 +1,9 @@
+Resource,Type,Brightness,Size,Duration
+Resource1,Image,50,100,0
+Resource2,Image,80,200,0
+Resource3,Image,45,90,0
+Resource4,Video,70,500,20
+Resource5,Video,75,700,35
+Resource6,Image,90,250,0
+Resource7,Video,60,600,25
+Resource8,Image,55,120,0
