@@ -6,6 +6,12 @@ A Python-based data mining project that explores student academic performance, l
 
 The Student Intelligence and Learning Analytics System brings multiple data mining techniques together in one interface. Users can select a technique from the sidebar and explore the corresponding results, prediction tables, model metrics, or cluster summaries.
 
+## 🚀 Live Demo
+
+**[Launch the Student Data Mining System](https://student-data-mining-system-uxy7znvvvqx98a47adzgbt.streamlit.app/)**
+
+Explore the interactive dashboard and try the student data mining and learning analytics techniques directly in your browser. No local installation required.
+
 ## ✨ Features
 
 - **Classification:** ID3-style entropy-based decision tree, J48-style decision tree, Naive Bayes, Decision Tree, and K-Nearest Neighbours (K-NN).
